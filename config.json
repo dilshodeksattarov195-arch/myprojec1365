@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authfalculate",
+        "uuid": 10581480,
+        "checksum": "9x08y"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
